@@ -1,0 +1,94 @@
+html {
+    background: #f5f5f5;
+}
+
+body {
+    background-color: rgb(131, 169, 241);
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+.qui-header {
+    background-color: #2bab79;
+    height: 60px;
+}
+
+.plcRouteList {
+    margin-top: 0px;
+}
+
+.pic {
+    border-radius: 50%;
+}
+
+.title {
+    position: absolute;
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+    top: 0px;
+    left: 45px;
+    white-space: nowrap;
+    line-height: 40px;
+    /*border: 1px solid black;*/
+}
+
+.bottom {
+    position: absolute;
+    top: 400px;
+    left: 470px;
+}
+
+.face {
+    float: left;
+    border-radius: 50%;
+    width: 38px;
+    height: 39px;
+    border: 1px solid white;
+}
+
+.day {
+    position: absolute;
+    top: 90px;
+    right: 480px;
+    border-radius: 50%;
+    color: white;
+    background-color: #2bab79;
+    width: 39px;
+    height: 39px;
+    text-align: center;
+    line-height: 36px;
+}
+
+em {
+    font-style: normal;
+    font-weight: bolder;
+}
+
+span {
+    margin-left: 20px;
+}
+
+.qui-aside{
+    height: 800px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: #2d3741;
+}
+
+ul{
+    list-style: none;
+}
+
+.nav-aside a{
+    font-size: 16px;
+    color: #ce1d5c;
+
+}
+
